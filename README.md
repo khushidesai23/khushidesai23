@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=khushidesai23&label=Profile%20views&color=0e75b6&style=flat" alt="khushidesai23" /> </p>-->
+
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRyZzF1MWJjcjhscmo4NnhibWFleHc0bXI4OG80M2c0M3psc2FtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
 
 ## :woman_technologist: &nbsp;About Me :
@@ -39,8 +41,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushidesai23&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushidesai23&layout=compact&theme=vision-friendly-dark)](https://github.com/khushidesai23/github-readme-stats)
-
-<img src="contribution.svg" />
 
 ---
 
