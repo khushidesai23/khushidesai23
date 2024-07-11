@@ -31,9 +31,16 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+ <!--<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidesai23&custom_title=khushidesai23's%20GitHub%20Activity%20Graph&bg_color=000000&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="Github Activity Graph" width="100%"/>
+</div> -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushidesai23&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushidesai23&layout=compact&theme=vision-friendly-dark)](https://github.com/khushidesai23/github-readme-stats)
+
+<img src="contribution.svg" />
 
 ---
 
